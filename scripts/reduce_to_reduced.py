@@ -2,6 +2,9 @@
 """Create a reduced CSV with only rows where DAY_OF_MONTH is even and <= 28
 and both ORIGIN and DEST are among the top 100(105) most common combined codes.
 
+The top-k airports are computed separately for each input (each month, and
+again for the combined data), so the airport set can differ between files.
+
 Writes output to ReducedData/<original-stem>-reduced.csv (creates the directory if needed).
 Prints original and resulting row counts.
 
