@@ -1,0 +1,346 @@
+code,name,city,state,latitude,longitude,utc_offset_standard,flights,rank,in_reduced_data
+ATL,Hartsfield-Jackson Atlanta International,Atlanta,GA,33.63666667,-84.42777778,-0500,229274,1,True
+DFW,Dallas/Fort Worth International,Dallas/Fort Worth,TX,32.89722222,-97.03777778,-0600,210858,2,True
+DEN,Denver International,Denver,CO,39.86166667,-104.67305556,-0700,206698,3,True
+ORD,Chicago O'Hare International,Chicago,IL,41.97694444,-87.90805556,-0600,187403,4,True
+CLT,Charlotte Douglas International,Charlotte,NC,35.21361111,-80.94916667,-0500,146670,5,True
+LAX,Los Angeles International,Los Angeles,CA,33.9425,-118.40805556,-0800,130648,6,True
+PHX,Phoenix Sky Harbor International,Phoenix,AZ,33.43416667,-112.01166667,-0700,129222,7,True
+LAS,Harry Reid International,Las Vegas,NV,36.08,-115.15222222,-0800,128019,8,True
+LGA,LaGuardia,New York,NY,40.77722222,-73.8725,-0500,109444,9,True
+SEA,Seattle/Tacoma International,Seattle,WA,47.45,-122.31166667,-0800,109268,10,True
+MCO,Orlando International,Orlando,FL,28.42944444,-81.30888889,-0500,108201,11,True
+BOS,Logan International,Boston,MA,42.36305556,-71.00638889,-0500,95419,12,True
+DCA,Ronald Reagan Washington National,Washington,VA,38.85138889,-77.03777778,-0500,94028,13,True
+SFO,San Francisco International,San Francisco,CA,37.61888889,-122.37555556,-0800,90318,14,True
+DTW,Detroit Metro Wayne County,Detroit,MI,42.2125,-83.35333333,-0500,87450,15,True
+EWR,Newark Liberty International,Newark,NJ,40.6925,-74.16861111,-0500,86519,16,True
+MSP,Minneapolis-St Paul International,Minneapolis,MN,44.88194444,-93.22166667,-0600,85068,17,True
+JFK,John F. Kennedy International,New York,NY,40.64,-73.77861111,-0500,82438,18,True
+IAH,George Bush Intercontinental/Houston,Houston,TX,29.98444444,-95.34138889,-0600,77673,19,True
+SLC,Salt Lake City International,Salt Lake City,UT,40.78833333,-111.97777778,-0700,76362,20,True
+MIA,Miami International,Miami,FL,25.79527778,-80.29,-0500,73672,21,True
+PHL,Philadelphia International,Philadelphia,PA,39.87194444,-75.24055556,-0500,68318,22,True
+BNA,Nashville International,Nashville,TN,36.12444444,-86.67805556,-0600,67927,23,True
+BWI,Baltimore/Washington International Thurgood Marshall,Baltimore,MD,39.17583333,-76.66888889,-0500,66510,24,True
+SAN,San Diego International,San Diego,CA,32.73361111,-117.18972222,-0800,63516,25,True
+FLL,Fort Lauderdale-Hollywood International,Fort Lauderdale,FL,26.07166667,-80.14972222,-0500,61827,26,True
+AUS,Austin - Bergstrom International,Austin,TX,30.19444444,-97.67,-0600,58301,27,True
+MDW,Chicago Midway International,Chicago,IL,41.78583333,-87.7525,-0600,54604,28,True
+TPA,Tampa International,Tampa,FL,27.97555556,-82.53333333,-0500,52646,29,True
+DAL,Dallas Love Field,Dallas,TX,32.84583333,-96.85083333,-0600,49406,30,True
+STL,St Louis Lambert International,St. Louis,MO,38.74861111,-90.37,-0600,44340,31,True
+HNL,Daniel K Inouye International,Honolulu,HI,21.31777778,-157.92027778,-1000,41499,32,True
+RDU,Raleigh-Durham International,Raleigh/Durham,NC,35.87777778,-78.7875,-0500,41062,33,True
+PDX,Portland International,Portland,OR,45.58861111,-122.59694444,-0800,39595,34,True
+HOU,William P Hobby,Houston,TX,29.64583333,-95.27722222,-0600,39154,35,True
+SMF,Sacramento International,Sacramento,CA,38.69555556,-121.59083333,-0800,37144,36,True
+IAD,Washington Dulles International,Washington,VA,38.9475,-77.46,-0500,35297,37,True
+MSY,Louis Armstrong New Orleans International,New Orleans,LA,29.99333333,-90.25916667,-0600,34084,38,True
+MCI,Kansas City International,Kansas City,MO,39.2975,-94.71388889,-0600,33797,39,True
+SJC,Norman Y. Mineta San Jose International,San Jose,CA,37.36305556,-121.92861111,-0800,33733,40,True
+IND,Indianapolis International,Indianapolis,IN,39.71722222,-86.29472222,-0500,32376,41,True
+PIT,Pittsburgh International,Pittsburgh,PA,40.49138889,-80.23277778,-0500,29647,42,True
+SNA,John Wayne Airport-Orange County,Santa Ana,CA,33.67555556,-117.86833333,-0800,29222,43,True
+CMH,John Glenn Columbus International,Columbus,OH,39.99694444,-82.89222222,-0500,28330,44,True
+SAT,San Antonio International,San Antonio,TX,29.53388889,-98.46916667,-0600,28323,45,True
+OAK,Metro Oakland International,Oakland,CA,37.72138889,-122.22111111,-0800,28311,46,True
+CVG,Cincinnati/Northern Kentucky International,Cincinnati,KY,39.04888889,-84.66777778,-0500,28049,47,True
+CLE,Cleveland-Hopkins International,Cleveland,OH,41.40944444,-81.85472222,-0500,27637,48,True
+SJU,Luis Munoz Marin International,San Juan,PR,18.43944444,-66.00222222,-0400,23682,49,True
+RSW,Southwest Florida International,Fort Myers,FL,26.53611111,-81.75527778,-0500,23498,50,True
+BUR,Bob Hope,Burbank,CA,34.20055556,-118.35861111,-0800,20666,51,True
+JAX,Jacksonville International,Jacksonville,FL,30.49416667,-81.68777778,-0500,20197,52,True
+PBI,Palm Beach International,West Palm Beach/Palm Beach,FL,26.68305556,-80.09555556,-0500,19718,53,True
+MKE,General Mitchell International,Milwaukee,WI,42.94694444,-87.89694444,-0600,19417,54,True
+OGG,Kahului Airport,Kahului,HI,20.89861111,-156.43055556,-1000,17930,55,True
+ONT,Ontario International,Ontario,CA,34.05611111,-117.60111111,-0800,17564,56,True
+CHS,Charleston AFB/International,Charleston,SC,32.89861111,-80.04055556,-0500,17415,57,True
+ABQ,Albuquerque International Sunport,Albuquerque,NM,35.03888889,-106.60833333,-0700,16468,58,True
+SDF,Louisville Muhammad Ali International,Louisville,KY,38.17416667,-85.73638889,-0500,16330,59,True
+OMA,Eppley Airfield,Omaha,NE,41.30305556,-95.89416667,-0600,15989,60,True
+OKC,Will Rogers World,Oklahoma City,OK,35.39305556,-97.60083333,-0600,15495,61,True
+MEM,Memphis International,Memphis,TN,35.0425,-89.97666667,-0600,15304,62,True
+BDL,Bradley International,Hartford,CT,41.93916667,-72.68444444,-0500,15075,63,True
+BOI,Boise Air Terminal,Boise,ID,43.56444444,-116.22277778,-0700,15027,64,True
+BUF,Buffalo Niagara International,Buffalo,NY,42.94055556,-78.73055556,-0500,14847,65,True
+ORF,Norfolk International,Norfolk,VA,36.89472222,-76.20111111,-0500,14130,66,True
+RNO,Reno/Tahoe International,Reno,NV,39.49916667,-119.76805556,-0800,13924,67,True
+SAV,Savannah/Hilton Head International,Savannah,GA,32.1275,-81.20222222,-0500,12841,68,True
+TUS,Tucson International,Tucson,AZ,32.11611111,-110.94111111,-0700,12712,69,True
+RIC,Richmond International,Richmond,VA,37.50527778,-77.31972222,-0500,12251,70,True
+GRR,Gerald R. Ford International,Grand Rapids,MI,42.88083333,-85.52277778,-0500,12244,71,True
+ANC,Ted Stevens Anchorage International,Anchorage,AK,61.17416667,-149.99805556,-0900,12172,72,True
+LGB,Long Beach Airport,Long Beach,CA,33.81805556,-118.15194444,-0800,11950,73,True
+ELP,El Paso International,El Paso,TX,31.80722222,-106.37638889,-0700,11746,74,True
+GEG,Spokane International,Spokane,WA,47.61916667,-117.53527778,-0800,11683,75,True
+BHM,Birmingham-Shuttlesworth International,Birmingham,AL,33.56388889,-86.75222222,-0600,11640,76,True
+TUL,Tulsa International,Tulsa,OK,36.19833333,-95.88805556,-0600,11533,77,True
+TYS,McGhee Tyson,Knoxville,TN,35.81111111,-83.99416667,-0500,11140,78,True
+SRQ,Sarasota/Bradenton International,Sarasota/Bradenton,FL,27.39555556,-82.55444444,-0500,11082,79,True
+KOA,Ellison Onizuka Kona International at Keahole,Kona,HI,19.73888889,-156.04555556,-1000,11046,80,True
+GSP,Greenville-Spartanburg International,Greer,SC,34.89555556,-82.21888889,-0500,11001,81,True
+MYR,Myrtle Beach International,Myrtle Beach,SC,33.67972222,-78.92833333,-0500,10974,82,True
+LIH,Lihue Airport,Lihue,HI,21.97611111,-159.33888889,-1000,10752,83,True
+DSM,Des Moines International,Des Moines,IA,41.53416667,-93.65777778,-0600,10397,84,True
+PVD,Rhode Island Tf Green International,Providence,RI,41.72222222,-71.42777778,-0500,9869,85,True
+PSP,Palm Springs International,Palm Springs,CA,33.82972222,-116.50666667,-0800,9600,86,True
+XNA,Northwest Arkansas National,Fayetteville,AR,36.28166667,-94.30777778,-0600,9133,87,True
+SYR,Syracuse Hancock International,Syracuse,NY,43.11111111,-76.10638889,-0500,9031,88,True
+PNS,Pensacola International,Pensacola,FL,30.47333333,-87.18666667,-0600,8991,89,True
+LIT,Bill and Hillary Clinton Nat Adams Field,Little Rock,AR,34.72944444,-92.22472222,-0600,8710,90,True
+COS,City of Colorado Springs Municipal,Colorado Springs,CO,38.80583333,-104.70083333,-0700,8577,91,True
+HPN,Westchester County,White Plains,NY,41.06694444,-73.7075,-0500,8404,92,True
+AVL,Asheville Regional,Asheville,NC,35.43611111,-82.54194444,-0500,8391,93,True
+ROC,Frederick Douglass Grtr Rochester International,Rochester,NY,43.11916667,-77.67194444,-0500,8174,94,True
+GSO,Piedmont Triad International,Greensboro/High Point,NC,36.10138889,-79.94111111,-0500,8034,95,True
+ALB,Albany International,Albany,NY,42.74916667,-73.80194444,-0500,8030,96,True
+FAT,Fresno Yosemite International,Fresno,CA,36.77666667,-119.71888889,-0800,7807,97,True
+MSN,Dane County Regional-Truax Field,Madison,WI,43.14,-89.3375,-0600,7804,98,True
+PWM,Portland International Jetport,Portland,ME,43.64555556,-70.30861111,-0500,7771,99,True
+ICT,Wichita Dwight D Eisenhower National,Wichita,KS,37.65,-97.43305556,-0600,6853,100,True
+VPS,Eglin AFB Destin Fort Walton Beach,Valparaiso,FL,30.48333333,-86.52527778,-0600,6787,101,True
+BZN,Bozeman Yellowstone International,Bozeman,MT,45.77722222,-111.15027778,-0700,6749,102,True
+SFB,Orlando Sanford International,Sanford,FL,28.77722222,-81.235,-0500,6529,103,True
+MAF,Midland International Air and Space Port,Midland/Odessa,TX,31.9425,-102.20194444,-0600,6311,104,True
+LEX,Blue Grass,Lexington,KY,38.03666667,-84.60861111,-0500,6176,105,True
+SGF,Springfield-Branson National,Springfield,MO,37.24555556,-93.38861111,-0600,6105,106,False
+HSV,Huntsville International-Carl T Jones Field,Huntsville,AL,34.63722222,-86.775,-0600,6045,107,False
+ECP,Northwest Florida Beaches International,Panama City,FL,30.35833333,-85.79555556,-0600,5685,108,False
+PIE,St Pete Clearwater International,St. Petersburg,FL,27.90861111,-82.68638889,-0500,5623,109,False
+ILM,Wilmington International,Wilmington,NC,34.27111111,-77.90277778,-0500,5467,110,False
+BTV,Burlington International,Burlington,VT,44.47194444,-73.15333333,-0500,5462,111,False
+EYW,Key West International,Key West,FL,24.55611111,-81.76,-0500,5400,112,False
+CID,The Eastern Iowa,Cedar Rapids/Iowa City,IA,41.88472222,-91.71083333,-0600,5378,113,False
+ASE,Aspen Pitkin County Sardy Field,Aspen,CO,39.22194444,-106.86833333,-0700,5329,114,False
+DAY,James M Cox/Dayton International,Dayton,OH,39.90222222,-84.21944444,-0500,5170,115,False
+SBA,Santa Barbara Municipal,Santa Barbara,CA,34.42611111,-119.84138889,-0800,5003,116,False
+EUG,Mahlon Sweet Field,Eugene,OR,44.12444444,-123.21194444,-0800,4945,117,False
+JAN,Jackson Medgar Wiley Evers International,Jackson/Vicksburg,MS,32.31111111,-90.07583333,-0600,4715,118,False
+FSD,Joe Foss Field,Sioux Falls,SD,43.58194444,-96.74194444,-0600,4686,119,False
+ITO,Hilo International,Hilo,HI,19.72027778,-155.04833333,-1000,4578,120,False
+CAE,Columbia Metropolitan,Columbia,SC,33.93888889,-81.11944444,-0500,4531,121,False
+FAR,Hector International,Fargo,ND,46.92055556,-96.81583333,-0600,4457,122,False
+SBN,South Bend International,South Bend,IN,41.70833333,-86.31722222,-0500,4451,123,False
+CHA,Lovell Field,Chattanooga,TN,35.03527778,-85.20361111,-0500,4437,124,False
+PGD,Punta Gorda Airport,Punta Gorda,FL,26.91861111,-81.99083333,-0500,4219,125,False
+ATW,Appleton International,Appleton,WI,44.25805556,-88.51916667,-0600,4142,126,False
+TLH,Tallahassee International,Tallahassee,FL,30.39666667,-84.35083333,-0500,4062,127,False
+LBB,Lubbock Preston Smith International,Lubbock,TX,33.66361111,-101.82055556,-0600,4004,128,False
+AZA,Phoenix - Mesa Gateway,Phoenix,AZ,33.30777778,-111.65555556,-0700,3986,129,False
+RDM,Roberts Field,Bend/Redmond,OR,44.25416667,-121.15055556,-0800,3914,130,False
+MHT,Manchester Boston Regional,Manchester,NH,42.93277778,-71.43583333,-0500,3862,131,False
+STT,Cyril E King,Charlotte Amalie,VI,18.33722222,-64.97333333,-0400,3735,132,False
+MDT,Harrisburg International,Harrisburg,PA,40.19305556,-76.7625,-0500,3726,133,False
+JAC,Jackson Hole,Jackson,WY,43.60722222,-110.73777778,-0700,3687,134,False
+SBP,San Luis County Regional,San Luis Obispo,CA,35.23722222,-120.6425,-0800,3486,135,False
+PSC,Tri Cities,Pasco/Kennewick/Richland,WA,46.26472222,-119.11888889,-0800,3467,136,False
+AMA,Rick Husband Amarillo International,Amarillo,TX,35.21944444,-101.70583333,-0600,3378,137,False
+BTR,Baton Rouge Metropolitan/Ryan Field,Baton Rouge,LA,30.53305556,-91.15,-0600,3353,138,False
+RAP,Rapid City Regional,Rapid City,SD,44.04527778,-103.05722222,-0700,3345,139,False
+BGR,Bangor International,Bangor,ME,44.8075,-68.82805556,-0500,3196,140,False
+FWA,Fort Wayne International,Fort Wayne,IN,40.97833333,-85.19527778,-0500,3182,141,False
+ISP,Long Island MacArthur,Islip,NY,40.79611111,-73.10055556,-0500,3177,142,False
+JNU,Juneau International,Juneau,AK,58.35472222,-134.57833333,-0900,3155,143,False
+MRY,Monterey Regional,Monterey,CA,36.58694444,-121.84305556,-0800,3123,144,False
+MFE,McAllen International,Mission/McAllen/Edinburg,TX,26.17583333,-98.23861111,-0600,3095,145,False
+MFR,Rogue Valley International - Medford,Medford,OR,42.375,-122.87333333,-0800,2950,146,False
+SHV,Shreveport Regional,Shreveport,LA,32.44638889,-93.82611111,-0600,2930,147,False
+HRL,Valley International,Harlingen/San Benito,TX,26.22722222,-97.65527778,-0600,2926,148,False
+AGS,Augusta Regional at Bush Field,Augusta,GA,33.37,-81.96444444,-0500,2922,149,False
+ABE,Lehigh Valley International,Allentown/Bethlehem/Easton,PA,40.6525,-75.44027778,-0500,2902,150,False
+MLI,Quad Cities International,Moline,IL,41.44833333,-90.50777778,-0600,2884,151,False
+BIL,Billings Logan International,Billings,MT,45.80777778,-108.54361111,-0700,2770,152,False
+GRB,Green Bay Austin Straubel International,Green Bay,WI,44.48472222,-88.12972222,-0600,2764,153,False
+MSO,Missoula Montana,Missoula,MT,46.91638889,-114.09055556,-0700,2736,154,False
+TVC,Cherry Capital,Traverse City,MI,44.74166667,-85.58194444,-0500,2668,155,False
+CRP,Corpus Christi International,Corpus Christi,TX,27.77222222,-97.5025,-0600,2661,156,False
+BIS,Bismarck Municipal,Bismarck/Mandan,ND,46.77277778,-100.74583333,-0600,2576,157,False
+FCA,Glacier Park International,Kalispell,MT,48.31055556,-114.25611111,-0700,2562,158,False
+GJT,Grand Junction Regional,Grand Junction,CO,39.1225,-108.52666667,-0700,2560,159,False
+DRO,Durango La Plata County,Durango,CO,37.15166667,-107.75388889,-0700,2490,160,False
+PIA,General Downing - Peoria International,Peoria,IL,40.66416667,-89.69333333,-0600,2427,161,False
+EGE,Eagle County Regional,Eagle,CO,39.64277778,-106.91583333,-0700,2414,162,False
+STS,Charles M. Schulz - Sonoma County,Santa Rosa,CA,38.50972222,-122.81277778,-0800,2362,163,False
+CAK,Akron-Canton Regional,Akron,OH,40.915,-81.44361111,-0500,2337,164,False
+CRW,West Virginia International Yeager,Charleston/Dunbar,WV,38.37611111,-81.59277778,-0500,2285,165,False
+CHO,Charlottesville Albemarle,Charlottesville,VA,38.13972222,-78.45222222,-0500,2259,166,False
+IDA,Idaho Falls Regional,Idaho Falls,ID,43.51361111,-112.07083333,-0700,2245,167,False
+GPT,Gulfport-Biloxi International,Gulfport/Biloxi,MS,30.40722222,-89.07,-0600,2222,168,False
+FAI,Fairbanks International,Fairbanks,AK,64.81527778,-147.85666667,-0900,2215,169,False
+LFT,Lafayette Regional Paul Fournet Field,Lafayette,LA,30.205,-91.98777778,-0600,2161,170,False
+SGU,St George Regional,St. George,UT,37.03638889,-113.51027778,-0700,2086,171,False
+GNV,Gainesville Regional,Gainesville,FL,29.69,-82.27166667,-0500,2084,172,False
+ACY,Atlantic City International,Atlantic City,NJ,39.4575,-74.57722222,-0500,2010,173,False
+ROA,Roanoke Blacksburg Regional,Roanoke,VA,37.32555556,-79.97555556,-0500,1991,174,False
+SAF,Santa Fe Municipal,Santa Fe,NM,35.61722222,-106.08944444,-0700,1879,175,False
+DAB,Daytona Beach International,Daytona Beach,FL,29.18,-81.05805556,-0500,1866,176,False
+MLB,Melbourne Orlando International,Melbourne,FL,28.10277778,-80.64527778,-0500,1850,177,False
+MTJ,Montrose Regional,Montrose/Delta,CO,38.50972222,-107.89416667,-0700,1820,178,False
+BLI,Bellingham International,Bellingham,WA,48.79277778,-122.5375,-0800,1808,179,False
+BFL,Meadows Field,Bakersfield,CA,35.43388889,-119.05777778,-0800,1747,180,False
+MGM,Montgomery Regional,Montgomery,AL,32.30055556,-86.39388889,-0600,1716,181,False
+MOB,Mobile Regional,Mobile,AL,30.69138889,-88.24277778,-0600,1700,182,False
+KTN,Ketchikan International,Ketchikan,AK,55.35416667,-131.71111111,-0900,1682,183,False
+GTF,Great Falls International,Great Falls,MT,47.48222222,-111.37027778,-0700,1656,184,False
+MOT,Minot International,Minot,ND,48.25777778,-101.27805556,-0600,1619,185,False
+TRI,Tri Cities,Bristol/Johnson City/Kingsport,TN,36.47527778,-82.4075,-0500,1616,186,False
+BQN,Rafael Hernandez,Aguadilla,PR,18.49472222,-67.12944444,-0400,1610,187,False
+HDN,Yampa Valley,Hayden,CO,40.48111111,-107.21777778,-0700,1567,188,False
+DLH,Duluth International,Duluth,MN,46.84194444,-92.19333333,-0600,1520,189,False
+EVV,Evansville Regional,Evansville,IN,38.04083333,-87.52861111,-0600,1468,190,False
+MBS,MBS International,Saginaw/Bay City/Midland,MI,43.53305556,-84.07972222,-0500,1466,191,False
+PVU,Provo Municipal,Provo,UT,40.21916667,-111.72333333,-0700,1401,192,False
+FNT,Bishop International,Flint,MI,42.96555556,-83.74472222,-0500,1391,193,False
+MLU,Monroe Regional,Monroe,LA,32.51055556,-92.03611111,-0600,1382,194,False
+SUN,Friedman Memorial,Sun Valley/Hailey/Ketchum,ID,43.50388889,-114.29555556,-0700,1331,195,False
+BRO,Brownsville South Padre Island International,Brownsville,TX,25.90611111,-97.42611111,-0600,1320,196,False
+AEX,Alexandria International,Alexandria,LA,31.3275,-92.54861111,-0600,1316,197,False
+HHH,Hilton Head Airport,Hilton Head,SC,32.22444444,-80.6975,-0500,1300,198,False
+TTN,Trenton Mercer,Trenton,NJ,40.27666667,-74.81333333,-0500,1293,199,False
+XWA,Williston Basin International,Williston,ND,48.25972222,-103.75055556,-0600,1292,200,False
+OAJ,Albert J Ellis,Jacksonville/Camp Lejeune,NC,34.82916667,-77.61222222,-0500,1269,201,False
+GRK,Robert Gray AAF,Killeen,TX,31.06722222,-97.82888889,-0600,1254,202,False
+FLG,Flagstaff Pulliam,Flagstaff,AZ,35.14027778,-111.66916667,-0700,1216,203,False
+LRD,Laredo International,Laredo,TX,27.54416667,-99.46166667,-0600,1211,204,False
+COU,Columbia Regional,Columbia,MO,38.81777778,-92.21777778,-0600,1206,205,False
+LNK,Lincoln Airport,Lincoln,NE,40.85083333,-96.75916667,-0600,1189,206,False
+ABI,Abilene Regional,Abilene,TX,32.41138889,-99.68194444,-0600,1188,207,False
+ACV,California Redwood Coast Humboldt County,Arcata/Eureka,CA,40.97777778,-124.10833333,-0800,1177,208,False
+BMI,Central Il Regional Airport at Bloomington,Bloomington/Normal,IL,40.47722222,-88.91583333,-0600,1172,209,False
+CPR,Casper/Natrona County International,Casper,WY,42.90583333,-106.46361111,-0700,1112,210,False
+ACK,Nantucket Memorial,Nantucket,MA,41.25333333,-70.06055556,-0500,1106,211,False
+HLN,Helena Regional,Helena,MT,46.60666667,-111.98333333,-0700,1096,212,False
+YUM,Yuma MCAS/Yuma International,Yuma,AZ,32.65666667,-114.60611111,-0700,1081,213,False
+FAY,Fayetteville Regional/Grannis Field,Fayetteville,NC,34.99111111,-78.88027778,-0500,1021,214,False
+AVP,Wilkes Barre Scranton International,Scranton/Wilkes-Barre,PA,41.33833333,-75.72333333,-0500,1013,215,False
+CMI,University of Illinois/Willard,Champaign/Urbana,IL,40.03861111,-88.27666667,-0600,968,216,False
+RDD,Redding Regional,Redding,CA,40.50888889,-122.29333333,-0800,963,217,False
+RST,Rochester International,Rochester,MN,43.90833333,-92.5,-0600,942,218,False
+SIT,Sitka Rocky Gutierrez,Sitka,AK,57.04694444,-135.36111111,-0900,922,219,False
+ORH,Worcester Regional,Worcester,MA,42.26722222,-71.87555556,-0500,889,220,False
+LAN,Capital Region International,Lansing,MI,42.77861111,-84.58611111,-0500,880,221,False
+GFK,Grand Forks International,Grand Forks,ND,47.94722222,-97.17388889,-0600,878,222,False
+FSM,Fort Smith Regional,Fort Smith,AR,35.33666667,-94.36611111,-0600,816,223,False
+CLL,Easterwood Field,College Station/Bryan,TX,30.58805556,-96.3625,-0600,784,224,False
+STX,Henry E. Rohlsen,Christiansted,VI,17.70138889,-64.80194444,-0400,778,225,False
+MVY,Martha's Vineyard Airport,Martha's Vineyard,MA,41.39333333,-70.61388889,-0500,772,226,False
+BLV,Scott AFB MidAmerica St Louis,Belleville,IL,38.54527778,-89.83527778,-0600,745,227,False
+LWS,Lewiston Nez Perce County,Lewiston,ID,46.37444444,-117.01527778,-0800,738,228,False
+ACT,Waco Regional,Waco,TX,31.61222222,-97.23027778,-0600,734,229,False
+SJT,San Angelo Regional/Mathis Field,San Angelo,TX,31.35777778,-100.49638889,-0600,734,230,False
+LCH,Lake Charles Regional,Lake Charles,LA,30.12611111,-93.22333333,-0600,734,231,False
+TYR,Tyler Pounds Regional,Tyler,TX,32.35361111,-95.40305556,-0600,734,232,False
+PAE,Snohomish County,Everett,WA,47.90722222,-122.28222222,-0800,730,233,False
+LAW,Lawton-Fort Sill Regional,Lawton/Fort Sill,OK,34.56777778,-98.41666667,-0600,730,234,False
+AZO,Kalamazoo/Battle Creek International,Kalamazoo,MI,42.23444444,-85.55166667,-0500,682,235,False
+MHK,Manhattan Regional,Manhattan/Ft. Riley,KS,39.14111111,-96.67194444,-0600,676,236,False
+CSG,Columbus Airport,Columbus,GA,32.51638889,-84.93888889,-0500,674,237,False
+PSE,Mercedita,Ponce,PR,18.00888889,-66.56444444,-0400,672,238,False
+ELM,Elmira/Corning Regional,Elmira/Corning,NY,42.15972222,-76.89166667,-0500,672,239,False
+LCK,Rickenbacker International,Columbus,OH,39.81388889,-82.92777778,-0500,644,240,False
+GRI,Central Nebraska Regional,Grand Island,NE,40.9675,-98.30972222,-0600,630,241,False
+ROW,Roswell Air Center,Roswell,NM,33.3,-104.52944444,-0700,612,242,False
+RFD,Chicago/Rockford International,Rockford,IL,42.19527778,-89.09722222,-0600,564,243,False
+RHI,Rhinelander/Oneida County,Rhinelander,WI,45.63083333,-89.46666667,-0600,548,244,False
+DEC,Decatur Airport,Decatur,IL,39.83444444,-88.86555556,-0600,540,245,False
+GUC,Gunnison-Crested Butte Regional,Gunnison,CO,38.53611111,-106.92944444,-0700,539,246,False
+PLN,Pellston Regional Airport of Emmet County,Pellston,MI,45.57083333,-84.79666667,-0500,537,247,False
+BQK,Brunswick Golden Isles,Brunswick,GA,31.25916667,-81.46638889,-0500,530,248,False
+VLD,Valdosta Regional,Valdosta,GA,30.78138889,-83.27611111,-0500,524,249,False
+ADQ,Kodiak Airport,Kodiak,AK,57.74972222,-152.49388889,-0900,511,250,False
+TXK,Texarkana Regional-Webb Field,Texarkana,AR,33.45361111,-93.99111111,-0600,506,251,False
+MQT,Marquette Sawyer Regional,Marquette,MI,46.34916667,-87.39638889,-0500,502,252,False
+CWA,Central Wisconsin,Mosinee,WI,44.7775,-89.66666667,-0600,492,253,False
+DHN,Dothan Regional,Dothan,AL,31.32111111,-85.44944444,-0600,492,254,False
+GTR,Golden Triangle Regional,Columbus,MS,33.44833333,-88.59138889,-0600,492,255,False
+ITH,Ithaca Tompkins International,Ithaca/Cortland,NY,42.49138889,-76.45861111,-0500,492,256,False
+BPT,Jack Brooks Regional,Beaumont/Port Arthur,TX,29.95083333,-94.02083333,-0600,492,257,False
+ABY,Southwest Georgia Regional,Albany,GA,31.53555556,-84.19444444,-0500,492,258,False
+GCK,Garden City Regional,Garden City,KS,37.9275,-100.72444444,-0600,492,259,False
+JST,John Murtha Johnstown-Cambria County,Johnstown,PA,40.31555556,-78.83472222,-0500,492,260,False
+PRC,Prescott Regional Ernest A Love Field,Prescott,AZ,34.65472222,-112.41916667,-0700,492,261,False
+SWO,Stillwater Regional,Stillwater,OK,36.16138889,-97.08583333,-0600,492,262,False
+GUM,Guam International,Guam,TT,13.48388889,144.79722222,+1000,492,263,False
+ABR,Aberdeen Regional,Aberdeen,SD,45.44666667,-98.4225,-0600,490,264,False
+BJI,Bemidji Regional,Bemidji,MN,47.51083333,-94.93472222,-0600,490,265,False
+CIU,Chippewa County International,Sault Ste. Marie,MI,46.25083333,-84.4725,-0500,490,266,False
+CMX,Houghton County Memorial,Hancock/Houghton,MI,47.16777778,-88.48638889,-0500,490,267,False
+GCC,Northeast Wyoming Regional,Gillette,WY,44.34888889,-105.53944444,-0700,490,268,False
+GGG,East Texas Regional,Longview,TX,32.38388889,-94.71138889,-0600,490,269,False
+IMT,Ford,Iron Mountain/Kingsfd,MI,45.81833333,-88.11444444,-0600,490,270,False
+SHR,Sheridan County,Sheridan,WY,44.76916667,-106.98027778,-0700,490,271,False
+SUX,Sioux Gateway Brig Gen Bud Day Field,Sioux City,IA,42.40138889,-96.38444444,-0600,490,272,False
+BET,Bethel Airport,Bethel,AK,60.77861111,-161.83722222,-0900,488,273,False
+CDV,Merle K Mudhole Smith,Cordova,AK,60.49166667,-145.4775,-0900,488,274,False
+PSG,Petersburg James A Johnson,Petersburg,AK,56.80138889,-132.94611111,-0900,488,275,False
+WRG,Wrangell Airport,Wrangell,AK,56.48444444,-132.36972222,-0900,488,276,False
+YAK,Yakutat Airport,Yakutat,AK,59.50333333,-139.66027778,-0900,488,277,False
+SPS,Sheppard AFB/Wichita Falls Municipal,Wichita Falls,TX,33.98888889,-98.49194444,-0600,482,278,False
+PIH,Pocatello Regional,Pocatello,ID,42.90972222,-112.59583333,-0700,474,279,False
+TWF,Joslin Field - Magic Valley Regional,Twin Falls,ID,42.48194444,-114.48777778,-0700,474,280,False
+SLN,Salina Regional,Salina,KS,38.79055556,-97.65222222,-0600,473,281,False
+USA,Concord Padgett Regional,Concord,NC,35.38777778,-80.70916667,-0500,471,282,False
+BTM,Bert Mooney,Butte,MT,45.95472222,-112.4975,-0700,460,283,False
+CYS,Cheyenne Regional/Jerry Olson Field,Cheyenne,WY,41.15555556,-104.81055556,-0700,458,284,False
+HYS,Hays Regional,Hays,KS,38.84222222,-99.27305556,-0600,455,285,False
+DIK,Dickinson - Theodore Roosevelt Regional,Dickinson,ND,46.80055556,-102.80444444,-0700,450,286,False
+DVL,Devils Lake Regional,Devils Lake,ND,48.11666667,-98.91,-0600,450,287,False
+JMS,Jamestown Regional,Jamestown,ND,46.92972222,-98.67805556,-0600,450,288,False
+LBE,Arnold Palmer Regional,Latrobe,PA,40.27305556,-79.41027778,-0500,434,289,False
+BRD,Brainerd Lakes Regional,Brainerd,MN,46.40416667,-94.13361111,-0600,434,290,False
+ESC,Delta County,Escanaba,MI,45.72277778,-87.09361111,-0500,434,291,False
+INL,Falls International Einarson Field,International Falls,MN,48.56555556,-93.40222222,-0600,432,292,False
+VCT,Victoria Regional,Victoria,TX,28.85416667,-96.91861111,-0600,420,293,False
+DDC,Dodge City Regional,Dodge City,KS,37.76305556,-99.96555556,-0600,419,294,False
+FOD,Fort Dodge Regional,Fort Dodge,IA,42.55111111,-94.19194444,-0600,418,295,False
+LAR,Laramie Regional,Laramie,WY,41.31194444,-105.675,-0700,418,296,False
+MCW,Mason City Municipal,Mason City,IA,43.15777778,-93.33111111,-0600,418,297,False
+MEI,Key Field,Meridian,MS,32.3325,-88.75194444,-0600,418,298,False
+PIB,Hattiesburg-Laurel Regional,Hattiesburg/Laurel,MS,31.46722222,-89.33694444,-0600,418,299,False
+CDC,Cedar City Regional,Cedar City,UT,37.70083333,-113.09888889,-0700,414,300,False
+LBF,North Platte Regional Airport Lee Bird Field,North Platte,NE,41.12611111,-100.68361111,-0600,413,301,False
+APN,Alpena County Regional,Alpena,MI,45.07805556,-83.56027778,-0500,412,302,False
+BFF,Western Neb. Regional/William B. Heilig Field,Scottsbluff,NE,41.87416667,-103.59555556,-0700,412,303,False
+HIB,Range Regional,Hibbing,MN,47.38666667,-92.83888889,-0600,412,304,False
+JLN,Joplin Regional,Joplin,MO,37.15305556,-94.49888889,-0600,412,305,False
+RIW,Central Wyoming Regional,Riverton/Lander,WY,43.06416667,-108.45972222,-0700,404,306,False
+RKS,Southwest Wyoming Regional,Rock Springs,WY,41.59416667,-109.06527778,-0700,404,307,False
+SCC,Deadhorse Airport,Deadhorse,AK,70.19472222,-148.46527778,-0900,388,308,False
+COD,Yellowstone Regional,Cody,WY,44.52027778,-109.02388889,-0700,366,309,False
+PBG,Plattsburgh International,Plattsburgh,NY,44.65083333,-73.46805556,-0500,364,310,False
+ALW,Walla Walla Regional,Walla Walla,WA,46.0925,-118.28416667,-0800,364,311,False
+SCE,University Park,State College,PA,40.85,-77.8475,-0500,351,312,False
+SCK,Stockton Metro,Stockton,CA,37.89444444,-121.23861111,-0800,338,313,False
+LBL,Liberal Mid-America Regional,Liberal,KS,37.04388889,-100.96,-0600,336,314,False
+SWF,New York Stewart International,Newburgh/Poughkeepsie,NY,41.50416667,-74.10472222,-0500,292,315,False
+HTS,Tri-State/Milton J. Ferguson Field,Ashland,WV,38.36861111,-82.56027778,-0500,290,316,False
+IAG,Niagara Falls International,Niagara Falls,NY,43.1075,-78.94583333,-0500,270,317,False
+PSM,Portsmouth International at Pease,Portsmouth,NH,43.07805556,-70.82333333,-0500,266,318,False
+TOL,Eugene F Kranz Toledo Express,Toledo,OH,41.58694444,-83.80777778,-0500,260,319,False
+OTZ,Ralph Wien Memorial,Kotzebue,AK,66.88472222,-162.59805556,-0900,250,320,False
+BGM,Greater Binghamton/Edwin A. Link Field,Binghamton,NY,42.20833333,-75.97972222,-0500,248,321,False
+HOB,Lea County Regional,Hobbs,NM,32.6875,-103.21722222,-0700,248,322,False
+EKO,Elko Regional,Elko,NV,40.825,-115.79138889,-0800,246,323,False
+OTH,Southwest Oregon Regional,North Bend/Coos Bay,OR,43.41694444,-124.24694444,-0800,246,324,False
+SPN,Francisco C. Ada Saipan International,Saipan,TT,15.12027778,145.73,+1000,246,325,False
+BRW,Wiley Post/Will Rogers Memorial,Barrow,AK,71.28472222,-156.76861111,-0900,246,326,False
+OME,Nome Airport,Nome,AK,64.51055556,-165.44472222,-0900,246,327,False
+HGR,Hagerstown Regional-Richard A. Henson Field,Hagerstown,MD,39.70861111,-77.72638889,-0500,213,328,False
+LSE,La Crosse Regional,La Crosse,WI,43.87916667,-91.25666667,-0600,197,329,False
+HYA,Cape Cod Gateway,Hyannis,MA,41.66944444,-70.28027778,-0500,186,330,False
+BIH,Bishop Airport,Bishop,CA,37.37305556,-118.36361111,-0800,184,331,False
+WYS,Yellowstone,West Yellowstone,MT,44.68833333,-111.11777778,-0700,170,332,False
+CKB,North Central West Virginia,Clarksburg/Fairmont,WV,39.29777778,-80.2275,-0500,150,333,False
+AKN,King Salmon Airport,King Salmon,AK,58.67638889,-156.64861111,-0900,106,334,False
+VEL,Vernal Regional,Vernal,UT,40.43611111,-109.51138889,-0700,104,335,False
+STC,St. Cloud Regional,St. Cloud,MN,45.54611111,-94.05944444,-0600,103,336,False
+PPG,Pago Pago International,Pago Pago,TT,-14.33,-170.71027778,-1100,84,337,False
+SPI,Abraham Lincoln Capital,Springfield,IL,39.84416667,-89.67805556,-0600,80,338,False
+ADK,Adak,Adak Island,AK,51.88361111,-176.6425,-1000,70,339,False
+SMX,Santa Maria Public/Capt. G. Allan Hancock Field,Santa Maria,CA,34.9,-120.45805556,-0800,68,340,False
+CNY,Canyonlands Regional,Moab,UT,38.7575,-109.75333333,-0700,62,341,False
+DLG,Dillingham Airport,Dillingham,AK,59.04472222,-158.50555556,-0900,62,342,False
+GST,Gustavus Airport,Gustavus,AK,58.42527778,-135.7075,-0900,62,343,False
+PQI,Presque Isle International,Presque Isle/Houlton,ME,46.68888889,-68.04472222,-0500,62,344,False
+EWN,Coastal Carolina Regional,New Bern/Morehead/Beaufort,NC,35.07277778,-77.04305556,-0500,44,345,False
