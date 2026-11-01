@@ -1,7 +1,7 @@
 # Flight Data for CS765
 
 This repository contains flight delay data for use in CS765 assignments.
-It was made for the Fall 2025 class, and fixed up for Fall 2026 (see
+It was made for the Fall 2025 class, and improved for Fall 2026 (see
 [Versions](#versions)).
 
 See [the course web flight data page](https://pages.graphics.cs.wisc.edu/765-25/posts/flight-data) for an explanation.
@@ -48,9 +48,9 @@ Consequences of the day filter:
 - A "month" is 14 days, so counts (per month, per route, per airport) are
   about half the real monthly numbers.
 - A day-by-day series has every other day missing. Events on odd days are
-  not in the data, only their effects. For example, the CrowdStrike outage
-  on Friday July 19, 2024 is missing, but the cancellations from the
-  aftermath (Delta took days to recover) show up on the 20th and 22nd.
+  not in the data, only their effects. 
+
+Why 105 (and not 98 or 100): in older versions, these files were gathered by month. In some months, Madison was as low as 105th. 
 
 ## Things to know about the columns
 
@@ -95,3 +95,7 @@ Consequences of the day filter:
   - This README now documents the reduction (including the even-days rule,
     which the 2025 web page described as "the first 28 days") and the
     columns.
+
+## AI Disclosure
+
+Claude re-did the 2026 version. It analyzed the 2025 version, found problems, improved the scripts, added the metadata files (Lookups), and updated the README.
